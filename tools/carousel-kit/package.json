@@ -1,0 +1,12 @@
+{
+  "name": "viabrasilis-carousel-kit",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Gerador de carrosséis no padrão visual da Via Brasilis Turismo.",
+  "scripts": {
+    "render": "node render.js"
+  },
+  "dependencies": {
+    "playwright": "^1.49.0"
+  }
+}
