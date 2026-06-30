@@ -1,0 +1,8 @@
+{
+  "cleanUrls": true,
+  "rewrites": [
+    { "source": "/", "destination": "/site/feriadoes-2026/index.html" },
+    { "source": "/feriadoes", "destination": "/site/feriadoes-2026/index.html" },
+    { "source": "/feriadoes-2026", "destination": "/site/feriadoes-2026/index.html" }
+  ]
+}
